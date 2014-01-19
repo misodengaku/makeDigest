@@ -1,0 +1,4 @@
+makeDigest
+==========
+
+digest auth util
